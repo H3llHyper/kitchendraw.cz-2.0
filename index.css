@@ -3,6 +3,7 @@ html, body{
 	margin: 0px;
 	padding: 0px;
 	height: 98vh;
+	width: 100vh;
 }
 
 #header{
@@ -29,14 +30,11 @@ html, body{
 #menuDiv{
 	background: #336699;
 	position: relative;
-	/*width: 300px;*/
 	margin-left: 0px;
-	/*height: 100%;*/
 	grid-column: 1 / 3;
 	grid-row: span 1;
 	padding: 5px;
 	overflow: auto;
-	/*lmao github test*/
 }
 
 #content{
@@ -54,7 +52,6 @@ html, body{
 
 #menuLink:hover{
 	color: lightblue;
-	/*font-variant: small-caps;*/
 }
 
 #textBox{
