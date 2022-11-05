@@ -47,7 +47,7 @@ html, body{
 	color: white;
 	text-decoration: none;
 	font-family: calibri, sans-serif;
-	font-size: 15px;
+	font-size: 1.2em;
 }
 
 #menuLink:hover{
@@ -67,12 +67,12 @@ ul{
 #paragraph{
 	text-align: justify;
 	font-family: calibri, sans-serif;
+	font-size: 1.2em;
 }
 
 #centeredParagraph{
 	text-align: center;
 	font-family: calibri, sans-serif;
-	/*line-height: 1px;*/
 }
 
 
