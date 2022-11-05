@@ -72,7 +72,7 @@ ul{
 #centeredParagraph{
 	text-align: center;
 	font-family: calibri, sans-serif;
-	line-height: 0px;
+	/*line-height: 1px;*/
 }
 
 
