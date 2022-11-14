@@ -70,6 +70,9 @@ ul{
 
 p{
 	font-size: 1em;
+	line-height: 1.3em;
+	margin-bottom: 0.5em;
+	margin-top: 0px;
 }
 
 #paragraph{
@@ -78,6 +81,7 @@ p{
 
 #centeredParagraph{
 	text-align: center;
+	
 }
 
 
