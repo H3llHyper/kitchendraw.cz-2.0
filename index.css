@@ -17,7 +17,7 @@ html, body{
 	overflow: auto;
 
 	background: rgb(163,194,224);
-	background: linear-gradient(90deg, rgba(163,194,224,1) 0%, rgba(227,241,255,1) 100%);
+	background: linear-gradient(90deg, rgba(163,194,224,1) 0%, rgb(255, 255, 255) 100%);
 }
 
 #content{
