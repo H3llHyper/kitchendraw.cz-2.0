@@ -1,4 +1,9 @@
-html, body{
+html{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
 	font-family: Roboto, sans-serif;
 	margin: 0px;
 	padding: 0px;
@@ -43,11 +48,19 @@ html, body{
 	gap: 15px;
 } 
 
-@media (max-width: 50vh) {
+@media (max-width: 60vh) {
 	body{
 		grid-template-rows: 6vh auto;
 	}
+
+	#menuDiv{
+		display: none;
+		grid-column: 1 / 6;
+	}
 	
+	/* #content{
+		grid-column: 1 / -1;
+	} */
 }
 
 #header-title{
