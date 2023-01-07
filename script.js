@@ -1,7 +1,7 @@
 let navToggled = true
 
 function openNav(){
-    document.getElementById("content").style.gridColumn = "3 / -1"
+    document.getElementById("content").style.gridColumn = "4 / -1"
     document.getElementById("menuDiv").style.display = "initial"
     navToggled = true
 }
